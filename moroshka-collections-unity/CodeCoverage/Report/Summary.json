@@ -1,0 +1,29 @@
+{
+  "summary": {
+    "generatedon": "2025-09-25T15:17:31Z",
+    "parser": "MultiReportParser (2x OpenCoverParser)",
+    "assemblies": 1,
+    "classes": 6,
+    "files": 8,
+    "coveredlines": 426,
+    "uncoveredlines": 0,
+    "coverablelines": 426,
+    "totallines": 1038,
+    "linecoverage": 100,
+    "coveredbranches": 0,
+    "totalbranches": 0,
+    "coveredmethods": 72,
+    "totalmethods": 72,
+    "methodcoverage": 100
+ },
+  "coverage": {
+    "assemblies": [
+      { "name": "Moroshka.Collections", "classes": 6, "coverage": 100, "coveredlines": 426, "coverablelines": 426, "totallines": 1038, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 72, "totalmethods": 72, "classesinassembly": [
+        { "name": "Moroshka.Collections.AssociationRegistry[TKey,TValue]", "coverage": 100, "coveredlines": 33, "coverablelines": 33, "totallines": 102, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 7, "totalmethods": 7 },
+        { "name": "Moroshka.Collections.CapacityStrategy", "coverage": 100, "coveredlines": 9, "coverablelines": 9, "totallines": 61, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 2, "totalmethods": 2 },
+        { "name": "Moroshka.Collections.FastList[T]", "coverage": 100, "coveredlines": 70, "coverablelines": 70, "totallines": 212, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 24, "totalmethods": 24 },
+        { "name": "Moroshka.Collections.IntHashMap[T]", "coverage": 100, "coveredlines": 278, "coverablelines": 278, "totallines": 525, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 26, "totalmethods": 26 },
+        { "name": "Moroshka.Collections.KeyAssociation[TKey,TValue]", "coverage": 100, "coveredlines": 25, "coverablelines": 25, "totallines": 85, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 7, "totalmethods": 7 },
+        { "name": "Moroshka.Collections.OutOfCapacityException", "coverage": 100, "coveredlines": 11, "coverablelines": 11, "totallines": 53, "branchcoverage": null, "coveredbranches": 0, "totalbranches": 0, "methodcoverage": 100, "coveredmethods": 6, "totalmethods": 6 } ] } ]
+  }
+}
